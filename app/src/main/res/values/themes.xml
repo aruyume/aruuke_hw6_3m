@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Aruuke_rakhmanova_hw_6_3m" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/white</item>
+    </style>
+
+    <style name="Theme.Aruuke_rakhmanova_hw_6_3m" parent="Base.Theme.Aruuke_rakhmanova_hw_6_3m" />
+</resources>
